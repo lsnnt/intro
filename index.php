@@ -258,28 +258,8 @@ margin: 0 !important;">
         </ADDRESS>
         <code
             style="text-align: center !important;opacity: 90%; font-size: xx-small;font-family: Arial, Helvetica, sans-serif !important; opacity: 50% !important;">code By Nityanand Thakur</code>
-        <p style="text-align: center;opacity: 100%;font-size: smaller;">Copyright&nbsp;&copy;nnt.infinityfreeapp
-            .com
-            2021-2022. under
-            <a href="LICENSE" target="_blank" rel="noopener noreferrer" id="mit">MIT LICENCE</a>
-
+        <p style="text-align: center;opacity: 100%;font-size: smaller;">Copyright&nbsp;&copynityanand86876 2021-2022.
         </p>
     </footer>
-</body>
-<!-- The core Firebase JS SDK is always required and must be listed first -->
-<script src="/__/firebase/8.6.5/firebase-app.js"></script>
-
-<!-- TODO: Add SDKs for Firebase products that you want to use
-     https://firebase.google.com/docs/web/setup#available-libraries -->
-<script src="/__/firebase/8.6.5/firebase-analytics.js"></script>
-
-<!-- Initialize Firebase -->
-<script src="/__/firebase/init.js"></script>
-<script src="js/script.js"></script>
-<!-- <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY&callback=myMap"></script> -->
-
-</html>
-<!--------------------
-
 </body>
 </html>
